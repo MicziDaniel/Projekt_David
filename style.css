@@ -46,6 +46,8 @@ button{
 .menuDiv{
     width: 100%;
     max-width: 270px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .menuDiv button{
@@ -99,11 +101,11 @@ button{
 }
 
 .profileDiv button{
-    width: 100%;
+    width: 40px;
 }
 
 .profileDiv button img{
-    width: 100%;
+    width: 40px;
 }
 
 /* main */
