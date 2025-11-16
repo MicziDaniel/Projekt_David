@@ -246,4 +246,20 @@ footer{
         width: 100%;
         height: 50%;
     }
+    .footerDiv{
+        display: none;
+    }
+    .buttonDiv{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+    }
+    .backButton{
+        display: none;
+    }
+    .nextButton{
+        width: 80vw;
+        max-width: 80vw !important;
+    }
 }
